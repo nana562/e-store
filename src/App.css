@@ -1,0 +1,43 @@
+body{
+  color:#000000;
+  font-family:Nunito;
+  background-color:whitesmoke;
+  margin: 0 10px 10px 0px;
+}
+.App {
+  text-align: center;
+}
+
+.col-sm-4{
+  height: 100%;
+  width:80%;
+  padding:2px;
+  margin:0px;
+  background-color: #ffff;
+  text-align: center;
+}
+
+.product-image{
+  height: 180px;
+  width:100%;
+  
+  border-radius: 4px;
+  /* background-image: url('./Img/images.jpg'); */
+  background-size: cover;
+  background-position: center;
+}
+img{
+  height: 180px;
+  width:100%;
+  
+  border-radius: 4px;
+  overflow: hidden; 
+  object-fit: scale-down;
+}
+.product-info{
+  margin: 2px 0px 0px 0px;
+  height: 120px;
+  border-style: 2px solid gold;
+  border-radius: 4px;
+  background-color:white;
+}
