@@ -1,8 +1,8 @@
-
-# Built with
+## ABOUT
+An online store web application. Frontend built with reactJS with backend feature under construction. This application was developed as part of the Pre-MEST program
+## Built with
 ReactJS
-
-# Features to be implemented
+## Features to be implemented
 User signup and login functionality
 
 Admin dashboard
