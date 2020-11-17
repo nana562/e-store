@@ -1,3 +1,20 @@
+
+# Built with
+ReactJS
+
+# Features to be implemented
+User signup and login functionality
+
+Admin dashboard
+
+Update User UI
+
+Update UI responsiveness
+
+Build a backend
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
