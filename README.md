@@ -9,7 +9,9 @@ Fix search functionality
 
 Admin dashboard
 
-Update User UI
+Implement dark mode feature
+
+Redesign User UI
 
 Update UI responsiveness
 
