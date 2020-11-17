@@ -5,6 +5,8 @@ ReactJS
 ## Features to be implemented
 User signup and login functionality
 
+Fix search functionality
+
 Admin dashboard
 
 Update User UI
