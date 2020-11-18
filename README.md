@@ -1,5 +1,6 @@
 ## ABOUT
-An online store web application. This project is built with ReactJS with backend functionality under construction.
+An online store web application. This project is built with ReactJS with backend functionality under construction. This application was developed as part of the Pre-MEST Bootcamp program 2020
+
 ## Built with
 ReactJS
 ## Features to be implemented
